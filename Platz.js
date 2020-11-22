@@ -14,7 +14,8 @@ var highscore= (player_one > play_two) ? play_two:play_two;
 var a = 1;
 while (a<10)
 {
-	console.log(a+" Hey")
+	console.log(a+" Hallo")
+	
 	a++;
 }
 var a = 0;
